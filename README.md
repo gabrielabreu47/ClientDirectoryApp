@@ -14,7 +14,7 @@ Solucion con mantenimiento de Clientes de una empresa X y sus direcciones.
 1. Abrir en su IDE preferido la solucion
 2. En caso de ser Visual Studio, hacer clic en Start. De lo contrario ejecutar en la consola el comando "dotnet run"
 
-#Notas
+# Notas
 La aplicacion utiliza una base de datos en SQLite la cual ya contiene algunos datos.
 Los paises pueden ser agregados directamente desde swagger. Primero Country, luego State y finalmente City
 
