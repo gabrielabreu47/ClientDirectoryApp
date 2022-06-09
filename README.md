@@ -5,7 +5,7 @@ Solucion con mantenimiento de Clientes de una empresa X y sus direcciones.
 
 1. Abrir en VS Code o su IDE preferido.
 2. Abrir la consola powershell o bash
-3. Ejecutar el comando "nmp i"
+3. Ejecutar el comando "npm i"
 4. Ejecutar el comando "npm run dev"
 
 
